@@ -1,0 +1,33 @@
+a img {
+    width: center;
+    display: block;
+    margin: 0 auto;
+}
+.site-navigation-item{
+    text-align:center;
+    display: inline-block;
+    margin: 65px;
+ }
+.headline{
+    text-align:center;
+} 
+.promo{
+    text-align:center;
+}
+.footer-navigation {
+    background-color: gray;
+    border-bottom: 10px solid white;
+}
+.footer-navigation-item {
+    display: inline-block;  
+    margin: 65px;   
+}
+.social-list-item {    
+    display: inline-block;
+    left: center; 
+}
+.reviews-list {
+    list-style-type: none;
+    display: flex;
+    width: 100%;
+}
